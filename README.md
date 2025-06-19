@@ -11,6 +11,7 @@ iOS supported types: text, number, list, dictionary, date, (other custom objects
 
 ***Input/output***: Lines in cursive are optional (usually used to specify given input is needed only for certain actions)
 
+# Documentation
 ## Notes storage
 A simplistic filesystem for text data based on the iOS notes app
 

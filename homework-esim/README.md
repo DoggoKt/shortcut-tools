@@ -9,10 +9,10 @@ Created [per request](https://www.reddit.com/r/shortcuts/s/fvK6DEuofb) for u/thr
      - [Download "Disable work eSIM"](https://doggopwn.github.io/redirect?loc=shortcuts://shortcuts/7cbe5823ebe543e284398d818f9f597b)
 
 2. Set your eSIM in the shortcut
-     - [Edit "Enable work eSIM"](https://doggopwn.github.io/redirect?loc=shortcuts://open-shortcut?name=Enable%20%work%eSIM)
+     - [Edit "Enable work eSIM"](https://doggopwn.github.io/redirect?loc=shortcuts://open-shortcut?name=Enable%20%work%20eSIM)
        - In the first block, set your work eSIM.
        - In the following blocks, set your home eSIM.
-     -   [Edit "Disable work eSIM"](https://doggopwn.github.io/redirect?loc=shortcuts://open-shortcut?name=Disable%20%work%eSIM)
+     -   [Edit "Disable work eSIM"](https://doggopwn.github.io/redirect?loc=shortcuts://open-shortcut?name=Disable%20work%20eSIM)
        - Do the exact same
 
  3. Create automations to trigger automatically

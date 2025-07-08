@@ -5,8 +5,8 @@ Created [per request](https://www.reddit.com/r/shortcuts/s/fvK6DEuofb) for u/thr
 
 # Installation
 1. You need to download two shortcuts.
-     - [Download "Enable work eSIM"](Enable%20work%20eSIM.shortcut?raw=1)
-     - [Download "Disable work eSIM"](Disable%20work%20eSIM.shortcut?raw=1)
+     - [Download "Enable work eSIM"](<Enable work eSIM.shortcut?raw=1>)
+     - [Download "Disable work eSIM"](<Disable work eSIM.shortcut?raw=1>)
 
 2. Set your eSIM in the shortcut
      - [Edit "Enable work eSIM"](https://doggopwn.github.io/redirect?loc=shortcuts://open-shortcut?name=Enable%20%work%eSIM)

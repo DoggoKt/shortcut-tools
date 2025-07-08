@@ -1,0 +1,12 @@
+{
+  "name": "Notes Storage",
+  "description": "Simplistic fileystem for text data based on the Notes app",
+  "show-readme": 0,
+  "dependencies": [],
+  "install": {
+    "Storage": "e8ff77d529284e32bd40cb6f61e51e9a",
+    "Storage (read)": "7088ca683607434291cd935223b3c300",
+    "Storage (delete)": "5ab3821fc97548d6ad2355263bdc6a04",
+    "Storage (write)": "5ab3821fc97548d6ad2355263bdc6a04"
+  }
+}

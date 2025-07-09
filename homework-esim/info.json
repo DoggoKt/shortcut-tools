@@ -1,7 +1,7 @@
 {
   "name": "Home/work eSIM",
   "description": "Allows to disable and enable a secondary eSIM when arriving at/leaving a specified (work?) location.",
-  "dependencies": ["notes-storage"],
+  "dependencies": ["notes-storage", "homework-esim"],
   "show-readme": 1,
   "install": {
     "Enable work eSIM": "6aa696d37199457cb39d2d1d7e4b718e",
